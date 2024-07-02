@@ -13,8 +13,8 @@ Features and Characteristics :
 
 
 Used Technology:
-Frontend: HTML,CSS3,TailwindCSS,Material Tailwind,React,React Router.
-Backend: NodeJs,MongoDb,ExpressJs
+- Frontend: HTML,CSS3,TailwindCSS,Material Tailwind,React,React Router.
+- Backend: NodeJs,MongoDb,ExpressJs
 
 **Installation** :
 ------Client-Side------
