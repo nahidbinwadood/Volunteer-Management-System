@@ -16,7 +16,7 @@ Used Technology:
 Frontend: HTML,CSS3,TailwindCSS,Material Tailwind,React,React Router.
 Backend: NodeJs,MongoDb,ExpressJs
 
-**Installation**
+**Installation** :
 ------Client-Side------
 
 **Cloning the Repository**
@@ -34,7 +34,7 @@ npm install
 **Running the Client-side**
 
 ```bash
-npm 
+npm run dev
 ```
 
 ------Server Side-------
